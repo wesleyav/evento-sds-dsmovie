@@ -4,7 +4,7 @@ import {
   Route
 } from "react-router-dom";
 import Listing from "components/Pages/Listing";
-import Form from 'components/Pages/Form';
+import Form from "components/Pages/Form";
 import Navbar from "components/Navbar";
 
 function App() {
